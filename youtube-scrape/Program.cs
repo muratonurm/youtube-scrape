@@ -17,7 +17,7 @@ class Program
         Stopwatch stopwatch = new Stopwatch();
         stopwatch.Start();
         
-        string token = "cc3772c9f3db4646982da2dd276a0b167da18e19a5c";
+        string token = "YOUR_TOKEN";
         string[] searchParams = { "scraping+proxy", "web+scraping+api", "bypass+cloudflare+webscraping" };
         var results = new List<string[]>();
         var tasks = new List<Task>();
