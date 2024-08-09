@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/JZMyTHF95XOz9y+1+6wPnuYlKgt4evUXh/P4sh2cfl3bJybwI8YT96Bv+YHPfVcOqfHCwceIE94ZJO9N2a9g==",
+  "success": true,
+  "projectFilePath": "/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/youtube-scrape.csproj",
+  "expectedPackageFiles": [
+    "/Users/onurmese/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

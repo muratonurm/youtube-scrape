@@ -1,0 +1,17 @@
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/youtube-scrape
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/youtube-scrape.deps.json
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/youtube-scrape.runtimeconfig.json
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/youtube-scrape.dll
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/youtube-scrape.pdb
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.AssemblyInfoInputs.cache
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.AssemblyInfo.cs
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.csproj.CoreCompileInputs.cache
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.dll
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/refint/youtube-scrape.dll
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.pdb
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.genruntimeconfig.cache
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/ref/youtube-scrape.dll
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.csproj.AssemblyReference.cache
+/Users/onurmese/RiderProjects/youtube-scrape/youtube-scrape/obj/Debug/net8.0/youtube-scrape.csproj.CopyComplete
